@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HookWXStepCount</string>
+    <string name="step_label">步数助手(1到100倍)</string>
+    <string name="cur_multiple">当前倍数：</string>
+</resources>
